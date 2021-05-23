@@ -1,8 +1,8 @@
-- 👋 Hi, I’m aAKun
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# HELLO
+* I am Akun  
+I‘m very happy that you come to vivist me  
+I'm trying to study these github  
+I'm must be very pleasure that you can make a frient with me
 
 <!---
 sk66666/sk66666 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
